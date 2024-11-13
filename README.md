@@ -6,4 +6,4 @@
 ### The IT Program's Mission
 - The mission of the Information Systems Technology Program is to provide skilled employees who contribute to the economic development of their communities and fulfill local and global workforce needs.
 ### The Goal of this Github Organization
-- To show future potential employers the skills that the students of Northshore's IT program have gained through earning their degrees and their time spent growing as successful IT professionals at any of the Northshore Technical Community College campuses by simply viewing their collaborative and noncollaborative projects on Git Hub.
+- This portfolio showcases the skills and competencies acquired by students in Northshore's IT program. Through their coursework and hands-on experience across the various Northshore Technical Community College campuses, these students have developed into proficient IT professionals. Prospective employers can gain valuable insights into their technical abilities by reviewing both collaborative and individual projects available on their GitHub profiles.
