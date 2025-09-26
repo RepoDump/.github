@@ -1,2 +1,1 @@
-### The Goal of this Github Organization
-- This is a portfolio that showcases the skills and competencies acquired by students in Northshore's IT program. Through their coursework and hands-on experience across the various Northshore Technical Community College campuses, these students have developed into proficient IT professionals. Prospective employers can gain valuable insights into their technical abilities by reviewing both collaborative and individual projects available on their GitHub profiles.
+
